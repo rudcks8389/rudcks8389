@@ -30,9 +30,6 @@
     <div>
     <p><strong>Server</strong></p>
       <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
-<!--       <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">  -->
-<!--       <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white">  -->
-<!--       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/> -->
     </div>
     <br>
     <!-- Development Tools -->
@@ -56,15 +53,31 @@
       <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
     </div>
     <br>
-    <!-- Other -->
+    <!-- Build Tools -->
     <div>
-    <p><strong>Other</strong></p>
+    <p><strong>Build Tools</strong></p>
       <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
       <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache Maven&logoColor=white">
-      <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
-<!--       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"> -->
-<!--       <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white"> -->
     </div>
     <br>
+    <!-- Data Formats -->
+    <div>
+    <p><strong>Data Formats</strong></p>
+      <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
+    </div>
+    <br>
+    <!-- API Tools -->
+    <div>
+    <p><strong>API Tools</strong></p>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
+    </div>
+    <br>
+    <!-- DevOps -->
+<!--     <div>
+    <p><strong>DevOps</strong></p>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white">
+      <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+    </div>
+    <br> -->
 </div>
