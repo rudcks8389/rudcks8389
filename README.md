@@ -56,8 +56,8 @@
     <!-- Build Tools -->
     <div>
     <p><strong>Build Tools</strong></p>
-      <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
       <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache Maven&logoColor=white">
+      <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
     </div>
     <br>
     <!-- API Tools -->
