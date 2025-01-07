@@ -1,5 +1,13 @@
 # 📚 Stack
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
+    <!-- Language -->
+     <div>
+      <p><strong>Language</strong></p>
+      <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+      <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+    </div>
+    <br>
     <!-- Frontend -->
     <div>
       <p><strong>Frontend</strong></p>
@@ -37,6 +45,7 @@
     <p><strong>Development Tools</strong></p>
       <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
       <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"/>
     </div>
     <br>
     <!-- Framework -->
